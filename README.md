@@ -1,4 +1,4 @@
-### Hi there 👋
+### 🐌First Imitate, 🚀Then Create.
 
 <!--
 **careteenL/careteenL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
